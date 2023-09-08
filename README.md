@@ -15,15 +15,18 @@ _we've created a predictive model to predict:-_
 # _MAIN TAB_:-
 ![Screenshot 2023-06-27 122419](https://github.com/debanjan1309/Healthcare/assets/91557339/b78bc4af-d6d3-42b9-9ce9-f7d3215d602e)
 
-# _DISEASE PREDICTION TAB:-_
-![Screenshot 2023-06-27 123337](https://github.com/debanjan1309/Healthcare/assets/91557339/4988d79e-e6b3-428f-b011-5563a14273d3)
+# _DISEASE PREDICTION TAB:-
+![Screenshot 2023-09-07 201545](https://github.com/debanjan1309/Healthcare/assets/91557339/02d6eccf-a2a0-4cd0-aa10-40b1e3b1fd31)
 
 # _SYMPTOM CHECKER TAB:-_
-![Screenshot 2023-06-27 123517](https://github.com/debanjan1309/Healthcare/assets/91557339/f40d59a5-bb2b-4a1d-babf-78a196ac962a)
+![Screenshot 2023-09-07 201620](https://github.com/debanjan1309/Healthcare/assets/91557339/58f03b1c-67c6-40aa-a9f6-97bce0327bd7)
 
 # _BLOODBANK TAB:-_
-![Screenshot 2023-06-27 123621](https://github.com/debanjan1309/Healthcare/assets/91557339/723e6f1a-ffcd-4e1a-a172-912d7d644f9c)
+![Screenshot 2023-09-07 201638](https://github.com/debanjan1309/Healthcare/assets/91557339/5cea0350-14d2-4e7c-8ff1-44dcd416de60)
 
+![Screenshot 2023-09-07 201711](https://github.com/debanjan1309/Healthcare/assets/91557339/1ed6e286-17dc-4acb-8e10-5454dc314d6b)
+
+![Screenshot 2023-09-07 201757](https://github.com/debanjan1309/Healthcare/assets/91557339/8c3bac3d-cf15-42ab-a196-11e8940b5fc9)
 
 These are the primary features added till now.
 
