@@ -13,8 +13,7 @@ _we've created a predictive model to predict:-_
 ![Screenshot 2023-07-05 201414](https://github.com/debanjan1309/Healthcare/assets/91557339/d8102493-ca6d-48a6-ba70-f8d8f45d6be1)
 
 # _MAIN TAB_:-
-![Screenshot 2023-09-08 165121](https://github.com/debanjan1309/Healthcare/assets/91557339/25b78b4f-c1b2-461c-bb73-5f0c6e1eb4bc)
-
+![Screenshot 2023-09-08 165121](https://github.com/debanjan1309/Healthcare/assets/91557339/f5b23d4d-b2b7-4efc-942c-57a217c5d566)
 
 # _DISEASE PREDICTION TAB:-
 ![Screenshot 2023-09-07 201545](https://github.com/debanjan1309/Healthcare/assets/91557339/02d6eccf-a2a0-4cd0-aa10-40b1e3b1fd31)
