@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Donor Added Successfully</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Additional styling for the success page */
+        body {
+            background-color: #F0F3F4; /* Light gray background */
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: #27AE60; /* Green color for the heading */
+        }
+
+        p {
+            text-align: center;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .button-container a {
+            text-decoration: none;
+            background-color: #3498DB; /* Blue color for buttons */
+            color: #FFFFFF;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 0 10px;
+        }
+
+        .button-container a:hover {
+            background-color: #2980B9; /* Darker blue color on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Donor Added Successfully</h1>
+    <p>Thank you for adding the donor information.</p>
+    <div class="button-container">
+        <a href="/add_donor">Add Another Donor</a>
+        <a href="/">Back to Home</a>
+    </div>
+</body>
+</html>

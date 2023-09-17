@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F0F3F4; /* Light gray background */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            margin: 20px;
+            padding: 20px;
+            background-color: #FFFFFF; /* White form background */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            margin-bottom: 20px;
+            color: #555; /* Dark gray text color */
+        }
+        .result {
+            font-size: 18px;
+            font-weight: bold;
+            display: flex; 
+            flex-direction:column; 
+            justify-content: center; 
+            align-items: center;
+        }
+        .home-button-container {
+            text-align:center;
+            margin-top: 20px;
+
+        }
+        .home-button {
+            background-color: #3498DB; /* Blue button */
+            color: #FFFFFF; /* White text color */
+            padding: 10px 100px;
+            border: none;
+            border-radius: 5px;
+            cursor: crosshair;
+            text-decoration: none; /* Remove underlines from links */
+        }
+        .home-button:hover {
+            background-color: #2980B9; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Healthcare Symptom Prediction</h1>
+    </header>
+    <main>
+        <div class="result">
+        <h2>Prediction Results</h2>
+            <p>Predicted Disease: {{ disease }}</p>
+            <p>Suggested Doctor: {{ doctor }}</p>
+        </div>
+    </main>
+    <div class="button-container">
+        <a href="/">Back to Home</a>
+    </div>
+</body>
+</html>
